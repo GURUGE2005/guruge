@@ -1,2 +1,0 @@
-# guruge
-GURUGE (PVT)
